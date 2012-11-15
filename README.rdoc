@@ -1,6 +1,8 @@
 == Welcome to ATS.WEB
 
-This is work in progress as I'm setting up the initial application. When I'm done I will update this introduction to reflect what's actually happening here.
+=== What is ATS.WEB
+ATS.WEB stands for 'Applicant Tracking System' (.WEB) and is supposed to inherit its functionality from a windows desktop application called Effective Personal, wich was released in 2007 and written in C# and VB.NET.
+AST.WEB will mimick the domain model and the use-cases one would expect from such an application. A complete list of features will follow as soon as I have compiled a list from the original software.
 
 Best regards,
 Stevie
